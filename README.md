@@ -1,6 +1,8 @@
 ### Olá, eu sou o Michael👋
 
+- 📚Cursando Análise e Desenvolvimento de Sistemas
 - 🔭 Front-end developer
+- 💻 Analista de qualidade QA
 - 🌱 Estudando Japonês e inglês
 - 😄 Pronomes: ele/dele
 
